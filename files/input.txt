@@ -1,0 +1,7 @@
+VARIABLE 
+	FIN = 3.
+	y = 5.
+	z = 2.
+INICIO
+	op = y + x * z.
+FIN
